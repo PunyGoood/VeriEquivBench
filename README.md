@@ -5,6 +5,13 @@
 VeriEquivBench provides a comprehensive collection of verifiable Dafny programs for benchmarking verification tools, enabling ground-truth-free evaluation through equivalence scoring.
 
 
+## Hugging Face Dataset
+
+📊 **[View on Hugging Face](https://huggingface.co/datasets/FengdiFlo/VeriEquivBench/viewer/bench)**
+
+Explore the dataset online with the Hugging Face Dataset Viewer.
+
+
 ## Dataset Components
 
 ###  `bench.json`
